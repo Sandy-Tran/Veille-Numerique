@@ -1,0 +1,46 @@
+.home {
+  height: 950px;
+}
+
+h1 {
+  font-family: "Train One", cursive;
+  font-size: 10vh;
+}
+
+#surprise img {
+  display: none;
+  height: 500px;
+}
+
+.next {
+  font-family: "Train One", cursive;
+}
+.next:hover {
+  text-decoration: none;
+}
+
+.explication {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 18px;
+}
+
+.liste a {
+  color: white;
+}
+.liste a:hover {
+  text-decoration: none;
+  color: #E0A800;
+}
+
+.conclusion {
+  font-family: "Train One", cursive;
+  font-size: 30px;
+}
+
+.final {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+
+/*# sourceMappingURL=style.css.map */
